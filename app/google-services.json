@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792781948905",
+    "project_id": "box-game-e208b",
+    "storage_bucket": "box-game-e208b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792781948905:android:08807f7212affc2c2aad78",
+        "android_client_info": {
+          "package_name": "com.example.boxgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792781948905-cp8ee3ohcd1kuc4ekqmgm9irfkr624qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJrmlHaQEd5DEnHf8_8b72acgPD5tpiLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792781948905-cp8ee3ohcd1kuc4ekqmgm9irfkr624qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
